@@ -45,16 +45,9 @@
 }
 
 @media (max-width: 300px) {
-
-    .imagem {
-
-    }
-
     article {
         width: 80vw;
-    }
-
-    
+    }   
 }
 
 
