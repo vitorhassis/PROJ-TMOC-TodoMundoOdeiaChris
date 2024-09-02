@@ -15,8 +15,8 @@
 
 @media (max-width: 600px) {
     nav > a {
-        font-size: 15px;
-      height: 4vh;  
+        font-size: 13px;
+      height: 3vh;  
     }
 
     article {
