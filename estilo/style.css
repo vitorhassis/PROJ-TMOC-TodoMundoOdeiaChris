@@ -26,6 +26,13 @@
    
 }
 
+@media (max-width: 428px) {
+    nav > a {
+        font-size: 12px;
+        height: 3vh;
+    }
+}
+
 @media (max-width: 400px) {
     article {
         width: 80vw;
